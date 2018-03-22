@@ -1,5 +1,5 @@
-this is 3rd file created
-this is push core to remote repository
-for that we are implementing fil3.txt
 
+<<<<<<< HEAD
 some down by surehs_demo
+=======
+>>>>>>> ba11e5a64dfcadb98ff64349c5c128455a64f468
