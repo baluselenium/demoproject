@@ -1,4 +1,3 @@
-this is push core to remote repository
 for that we are implementing fil3.txt
 
 
